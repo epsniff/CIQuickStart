@@ -1,6 +1,6 @@
 FROM ubuntu:13.10
 
-MAINTAINER Lytics (createdby Esniff)
+MAINTAINER Esniff
 
 # Add wget and some other helpful tools.
 RUN apt-get update
